@@ -56,7 +56,7 @@ layers:
   - F10
   - F11
   - F12
-  - )
+  - '&bl BL_CYCLE'
   - $$mdi:backspace-outline$$
   - $$mdi:apple-keyboard-control$$
   - {t: ▽, type: trans}
@@ -68,7 +68,7 @@ layers:
   - F6
   - F7
   - F8
-  - \
+  - {t: '$$mdi:led-on$$', h: '$$mdi:page-previous-outline$$', type: tap_dance}
   - '`'
   - $$mdi:apple-keyboard-shift$$
   - {t: ▽, type: trans}
