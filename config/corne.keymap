@@ -46,7 +46,7 @@
             bindings = <
 &kp EQUAL    &kp N7        &kp N8        &kp N9        &kp N0     &kp BACKSPACE    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &rgb_ug RGB_ON   &kp PLUS   &kp KP_EQUAL  &kp PRINTSCREEN
 &kp LA(TAB)  &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp ENTER  &kp DEL          &kp GRAVE         &kp UP_ARROW       &rgb_ug RGB_OFF  &kp F9     &kp MINUS     &kp PRINTSCREEN
-&kp LSHFT    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp DOT    &kp COMMA        &kp LEFT_ARROW    &kp DOWN_ARROW     &kp RIGHT        &kp EQUAL  &kp SLASH     &kp EQUAL
+&sk LSHFT    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp DOT    &kp COMMA        &kp LEFT_ARROW    &kp DOWN_ARROW     &kp RIGHT        &kp EQUAL  &kp SLASH     &kp EQUAL
                                          &kp LGUI      &trans     &kp LEFT_ALT     &kp RET           &trans             &kp RALT
             >;
         };
